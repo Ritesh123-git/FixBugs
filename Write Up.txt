@@ -1,0 +1,6 @@
+In this Particular menu driven program-----
+
+I have just completed the remaining two method, the first one is SearchExpenses method() in which I took the input from the scanner and check whether the particular 
+expenses which we were looking for is only the expenses which we took input. And if we found it we will print that we have find the expenses which we were looking for.
+
+The second method is sortExpenses method in which I have to sort the arraylist which was passed inside the parameter and print the sorted arrayList.
